@@ -157,7 +157,7 @@
 									<button type="button" class="btn btn-default get">Get it now</button>
 								</div>
 								<div class="col-sm-6">
-									<img src="{{URL::to('Eshopper/images/home/lara.jpg')}}" class="girl img-responsive" alt="" />
+									<img src="{{URL::to('Eshopper/images/home/alcohol.png')}}" class="girl img-responsive" alt="" />
 									<img src="images/home/pricing.png"  class="pricing" alt="" />
 								</div>
 							</div>
@@ -169,7 +169,7 @@
 									<button type="button" class="btn btn-default get">Get it now</button>
 								</div>
 								<div class="col-sm-6">
-									<img src="{{URL::to('Eshopper/images/home/singleton.jpg')}}" class="girl img-responsive" alt="" />
+									<img src="{{URL::to('Eshopper/images/home/Whisky.jpg')}}" class="girl img-responsive" alt="" />
 									<img src="images/home/pricing.png"  class="pricing" alt="" />
 								</div>
 							</div>
@@ -182,7 +182,7 @@
 									<button type="button" class="btn btn-default get">Get it now</button>
 								</div>
 								<div class="col-sm-6">
-									<img src="{{URL::to('Eshopper/images/home/chivas.jpg')}}" class="girl img-responsive" alt="" />
+									<img src="{{URL::to('Eshopper/images/home/tinh-tuy.jpg')}}" class="girl img-responsive" alt="" />
 									<img src="images/home/pricing.png" class="pricing" alt="" />
 								</div>
 							</div>
